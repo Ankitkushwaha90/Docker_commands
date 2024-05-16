@@ -19,6 +19,7 @@ docker run -it ubuntu
 ```bash
 docker pull nginx
 ```
+
 ```bash
 docker pull ubuntu
 ```
