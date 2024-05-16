@@ -19,6 +19,15 @@ docker run -it ubuntu
 ```bash
 docker pull nginx
 ```
+```bash
+docker ps
+```
+```bash
+docker run -d -p2000:80 nginx
+```
+```bash
+docker stop 089
+```
 
 ```bash
 docker pull ubuntu
