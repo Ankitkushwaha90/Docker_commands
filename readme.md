@@ -1,5 +1,9 @@
 ### docker commands
 ```bash
+docker ps -a
+```
+
+```bash
 docker exec -it pedantic_mendel bash
 ```
 ### docker file build from Dockerfile
