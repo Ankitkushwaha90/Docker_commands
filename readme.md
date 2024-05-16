@@ -2,6 +2,9 @@
 ```bash
 docker ps -a
 ```
+```bash
+docker run -d -p 5000:80 nginx
+```
 
 ```bash
 docker exec -it pedantic_mendel bash
