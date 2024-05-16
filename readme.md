@@ -15,3 +15,13 @@ docker run -it -p 8000:8000 youtube-nodejs
 ```bash
 docker run -it ubuntu
 ```
+### docker images
+```bash
+docker pull nginx
+```
+```bash
+docker pull ubuntu
+```
+```bash
+docker pull owncloud
+```
